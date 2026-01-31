@@ -1,0 +1,12 @@
+
+
+public class MovieBookSeries 
+{
+    public static void main(String[] args) 
+    {
+        System.out.println("My Favourite Movie is: Shashank redemption"); //This line prints favourite movie 
+        System.out.println("My Favourite Book is: Thinking fast and slow");//This line Prints Favourie book
+        System.out.println("My Favourite Series is: Westworld"); //This line prints favourite series
+    }
+     
+}
