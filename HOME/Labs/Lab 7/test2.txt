@@ -1,0 +1,1 @@
+whatever I write in the file it goes and counts all of the words within the text
