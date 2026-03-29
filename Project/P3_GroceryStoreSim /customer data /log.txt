@@ -1,0 +1,1512 @@
+0.0: Customer 384 arrives
+0.15: Customer 372 arrives
+0.64: Customer 342 arrives
+0.91: Customer 195 arrives
+1.22: Customer 96 arrives
+1.7: Customer 341 arrives
+1.77: Customer 483 arrives
+2.24: Customer 303 arrives
+2.41: Customer 322 arrives
+2.67: Customer 174 arrives
+2.87: Customer 119 arrives
+3.05: Customer 0 arrives
+3.26: Customer 246 arrives
+3.38: Customer 84 arrives
+4.44: Customer 421 arrives
+4.51: Customer 391 arrives
+4.85: Customer 119 finishes shopping
+12 or fewer, chose express lane 1
+5.68: Customer 457 arrives
+5.99: Customer 117 arrives
+6.01: Customer 21 arrives
+6.05: Customer 119 finishes checking out
+7.07: Customer 233 arrives
+7.1: Customer 482 arrives
+7.3: Customer 374 arrives
+7.62: Customer 380 arrives
+7.61: Customer 322 finishes shopping
+12 or fewer, chose express lane 2
+7.68: Customer 74 arrives
+8.1: Customer 348 arrives
+8.12: Customer 463 arrives
+8.45: Customer 194 arrives
+8.79: Customer 285 arrives
+8.780000000000001: Customer 342 finishes shopping
+12 or fewer, chose regular lane 3
+8.91: Customer 20 arrives
+8.9: Customer 447 arrives
+9.36: Customer 427 arrives
+9.41: Customer 322 finishes checking out
+9.68: Customer 187 arrives
+9.76: Customer 243 arrives
+9.92: Customer 160 arrives
+9.93: Customer 92 arrives
+10.13: Customer 437 arrives
+10.18: Customer 326 arrives
+10.35: Customer 295 arrives
+10.89: Customer 475 arrives
+11.330000000000002: Customer 342 finishes checking out
+11.45: Customer 253 arrives
+11.49: Customer 138 arrives
+11.68: Customer 292 arrives
+11.85: Customer 380 finishes shopping
+12 or fewer, chose regular lane 6
+11.98: Customer 84 finishes shopping
+12 or fewer, chose regular lane 3
+13.11: Customer 220 arrives
+13.2: Customer 460 arrives
+13.35: Customer 445 arrives
+14.0: Customer 380 finishes checking out
+14.13: Customer 225 arrives
+14.149999999999999: Customer 348 finishes shopping
+12 or fewer, chose regular lane 4
+14.34: Customer 421 finishes shopping
+More than 12, chose regular lane 6
+14.44: Customer 396 arrives
+14.48: Customer 84 finishes checking out
+14.53: Customer 317 arrives
+14.65: Customer 280 arrives
+15.559999999999999: Customer 253 finishes shopping
+12 or fewer, chose regular lane 5
+15.59: Customer 225 finishes shopping
+12 or fewer, chose regular lane 3
+15.68: Customer 463 finishes shopping
+12 or fewer, chose express lane 1
+15.8: Customer 193 arrives
+15.96: Customer 205 arrives
+16.36: Customer 433 arrives
+16.4: Customer 348 finishes checking out
+16.560000000000002: Customer 457 finishes shopping
+12 or fewer, chose express lane 2
+16.58: Customer 391 finishes shopping
+More than 12, chose regular lane 5
+16.68: Customer 44 arrives
+16.67: Customer 246 finishes shopping
+12 or fewer, chose regular lane 4
+16.98: Customer 18 arrives
+17.02: Customer 243 finishes shopping
+12 or fewer, chose regular lane 6
+17.09: Customer 421 finishes checking out
+17.23: Customer 289 arrives
+17.25: Customer 89 arrives
+17.67: Customer 295 finishes shopping
+12 or fewer, chose regular lane 4
+17.7: Customer 285 finishes shopping
+12 or fewer, chose regular lane 6
+17.69: Customer 225 finishes checking out
+17.709999999999997: Customer 253 finishes checking out
+17.79: Customer 306 arrives
+18.05: Customer 424 arrives
+18.230000000000004: Customer 437 finishes shopping
+12 or fewer, chose regular lane 3
+18.38: Customer 450 arrives
+18.59: Customer 170 arrives
+18.7: Customer 138 finishes shopping
+12 or fewer, chose regular lane 5
+18.73: Customer 239 arrives
+18.89: Customer 132 arrives
+19.1: Customer 198 arrives
+19.12: Customer 246 finishes checking out
+19.24: Customer 451 arrives
+19.44: Customer 71 arrives
+19.46: Customer 484 arrives
+19.94: Customer 106 arrives
+20.19: Customer 272 arrives
+20.33: Customer 317 finishes shopping
+12 or fewer, chose regular lane 3
+20.37: Customer 70 arrives
+20.42: Customer 309 arrives
+20.530000000000005: Customer 437 finishes checking out
+20.56: Customer 440 arrives
+20.7: Customer 433 finishes shopping
+12 or fewer, chose regular lane 4
+21.009999999999998: Customer 372 finishes shopping
+More than 12, chose regular lane 3
+21.0: Customer 411 arrives
+21.09: Customer 445 finishes shopping
+12 or fewer, chose express lane 1
+21.17: Customer 416 arrives
+21.21: Customer 154 arrives
+21.21: Customer 483 finishes shopping
+More than 12, chose regular lane 4
+21.380000000000003: Customer 18 finishes shopping
+12 or fewer, chose express lane 2
+21.52: Customer 289 finishes shopping
+12 or fewer, chose regular lane 3
+21.63: Customer 264 arrives
+21.72: Customer 467 arrives
+22.0: Customer 451 finishes shopping
+12 or fewer, chose regular lane 6
+22.02: Customer 53 arrives
+22.19: Customer 71 finishes shopping
+12 or fewer, chose regular lane 5
+22.38: Customer 27 arrives
+22.41: Customer 130 arrives
+22.46: Customer 305 arrives
+22.97: Customer 399 arrives
+23.16: Customer 424 finishes shopping
+12 or fewer, chose express lane 1
+23.19: Customer 334 arrives
+23.560000000000002: Customer 205 finishes shopping
+12 or fewer, chose express lane 2
+24.49: Customer 442 arrives
+24.75: Customer 211 arrives
+24.75: Customer 435 arrives
+25.019999999999996: Customer 96 finishes shopping
+More than 12, chose regular lane 6
+25.18: Customer 484 finishes shopping
+12 or fewer, chose regular lane 5
+25.19: Customer 331 arrives
+25.22: Customer 345 arrives
+25.43: Customer 218 arrives
+25.69: Customer 446 arrives
+25.71: Customer 264 finishes shopping
+12 or fewer, chose regular lane 4
+26.09: Customer 310 arrives
+26.11: Customer 95 arrives
+26.209999999999997: Customer 440 finishes shopping
+12 or fewer, chose regular lane 3
+26.4: Customer 432 arrives
+26.43: Customer 297 arrives
+26.42: Customer 160 finishes shopping
+More than 12, chose regular lane 4
+26.44: Customer 429 arrives
+26.55: Customer 0 finishes shopping
+More than 12, chose regular lane 3
+26.69: Customer 361 arrives
+26.85: Customer 427 finishes shopping
+More than 12, chose regular lane 6
+27.24: Customer 120 arrives
+27.39: Customer 428 arrives
+27.56: Customer 61 arrives
+27.91: Customer 331 finishes shopping
+12 or fewer, chose express lane 1
+28.89: Customer 154 finishes shopping
+12 or fewer, chose express lane 2
+29.07: Customer 306 finishes shopping
+12 or fewer, chose regular lane 5
+29.08: Customer 44 finishes shopping
+12 or fewer, chose express lane 1
+29.72: Customer 491 arrives
+29.88: Customer 125 arrives
+29.91: Customer 231 arrives
+29.98: Customer 368 arrives
+30.51: Customer 326 finishes shopping
+More than 12, chose regular lane 6
+30.56: Customer 209 arrives
+30.56: Customer 125 finishes shopping
+12 or fewer, chose express lane 2
+30.630000000000003: Customer 117 finishes shopping
+More than 12, chose regular lane 5
+30.75: Customer 141 arrives
+31.0: Customer 292 finishes shopping
+More than 12, chose regular lane 4
+31.01: Customer 347 arrives
+31.06: Customer 2 arrives
+31.92: Customer 5 arrives
+31.980000000000004: Customer 272 finishes shopping
+12 or fewer, chose regular lane 3
+32.24: Customer 310 finishes shopping
+12 or fewer, chose express lane 1
+32.26: Customer 2 finishes shopping
+12 or fewer, chose express lane 2
+32.96: Customer 498 arrives
+33.0: Customer 417 arrives
+33.17: Customer 9 arrives
+33.29: Customer 482 finishes shopping
+More than 12, chose regular lane 4
+33.3: Customer 487 arrives
+33.36: Customer 146 arrives
+33.52: Customer 86 arrives
+33.73: Customer 15 arrives
+33.73: Customer 21 finishes shopping
+More than 12, chose regular lane 3
+33.82: Customer 374 finishes shopping
+More than 12, chose regular lane 6
+33.980000000000004: Customer 498 finishes shopping
+12 or fewer, chose regular lane 5
+34.06: Customer 3 arrives
+34.42: Customer 61 finishes shopping
+12 or fewer, chose express lane 1
+34.61: Customer 69 arrives
+34.69: Customer 474 arrives
+34.71: Customer 89 finishes shopping
+More than 12, chose regular lane 6
+34.77: Customer 185 arrives
+34.9: Customer 447 finishes shopping
+More than 12, chose regular lane 5
+34.89: Customer 231 finishes shopping
+12 or fewer, chose express lane 2
+34.91: Customer 435 finishes shopping
+12 or fewer, chose regular lane 4
+35.0: Customer 491 finishes shopping
+12 or fewer, chose regular lane 3
+35.120000000000005: Customer 193 finishes shopping
+More than 12, chose regular lane 4
+35.63: Customer 114 arrives
+35.82: Customer 140 arrives
+36.47: Customer 5 finishes shopping
+12 or fewer, chose express lane 1
+36.89: Customer 11 arrives
+37.08: Customer 411 finishes shopping
+12 or fewer, chose express lane 2
+37.23: Customer 14 arrives
+37.5: Customer 135 arrives
+37.5: Customer 309 finishes shopping
+More than 12, chose regular lane 3
+37.56: Customer 175 arrives
+37.9: Customer 145 arrives
+38.38: Customer 3 finishes shopping
+12 or fewer, chose regular lane 6
+38.43: Customer 299 arrives
+38.52: Customer 252 arrives
+38.89: Customer 446 finishes shopping
+12 or fewer, chose regular lane 5
+39.0: Customer 208 arrives
+39.230000000000004: Customer 11 finishes shopping
+12 or fewer, chose express lane 1
+39.269999999999996: Customer 233 finishes shopping
+More than 12, chose regular lane 6
+39.26: Customer 419 arrives
+39.98: Customer 499 arrives
+40.27: Customer 291 arrives
+40.82: Customer 209 finishes shopping
+12 or fewer, chose express lane 2
+41.300000000000004: Customer 341 finishes shopping
+More than 12, chose regular lane 5
+42.18: Customer 255 arrives
+42.21: Customer 359 arrives
+42.22: Customer 140 finishes shopping
+12 or fewer, chose regular lane 4
+42.230000000000004: Customer 95 finishes shopping
+More than 12, chose regular lane 3
+42.27: Customer 453 arrives
+42.33: Customer 426 arrives
+42.57: Customer 396 finishes shopping
+More than 12, chose regular lane 4
+42.63: Customer 412 arrives
+42.87: Customer 311 arrives
+43.34: Customer 485 arrives
+43.5: Customer 397 arrives
+44.11: Customer 36 arrives
+44.32: Customer 474 finishes shopping
+12 or fewer, chose express lane 1
+44.77: Customer 417 finishes shopping
+12 or fewer, chose express lane 2
+44.91: Customer 127 arrives
+45.0: Customer 269 arrives
+45.29: Customer 242 arrives
+45.56: Customer 288 arrives
+45.66: Customer 475 finishes shopping
+More than 12, chose regular lane 3
+45.67: Customer 36 finishes shopping
+12 or fewer, chose regular lane 6
+45.8: Customer 218 finishes shopping
+More than 12, chose regular lane 5
+46.04: Customer 164 arrives
+46.11: Customer 220 finishes shopping
+More than 12, chose regular lane 6
+46.53: Customer 228 arrives
+46.55: Customer 49 arrives
+46.59: Customer 170 finishes shopping
+More than 12, chose regular lane 5
+46.69: Customer 354 arrives
+46.73: Customer 78 arrives
+46.81: Customer 394 arrives
+47.02: Customer 330 arrives
+47.21: Customer 137 arrives
+47.5: Customer 145 finishes shopping
+12 or fewer, chose express lane 1
+47.67999999999999: Customer 467 finishes shopping
+More than 12, chose regular lane 4
+48.53999999999999: Customer 120 finishes shopping
+More than 12, chose regular lane 3
+48.650000000000006: Customer 412 finishes shopping
+12 or fewer, chose express lane 2
+48.74: Customer 187 finishes shopping
+More than 12, chose regular lane 4
+48.77: Customer 123 arrives
+48.87: Customer 399 finishes shopping
+More than 12, chose regular lane 3
+48.94: Customer 146 finishes shopping
+More than 12, chose regular lane 6
+49.23: Customer 213 arrives
+49.38: Customer 392 arrives
+49.46: Customer 363 arrives
+49.68: Customer 255 finishes shopping
+12 or fewer, chose express lane 1
+49.79: Customer 320 arrives
+50.34: Customer 88 arrives
+50.67: Customer 183 arrives
+50.71: Customer 303 finishes shopping
+More than 12, chose regular lane 5
+51.14: Customer 429 finishes shopping
+More than 12, chose regular lane 6
+51.22: Customer 208 finishes shopping
+More than 12, chose regular lane 5
+51.61: Customer 276 arrives
+51.64: Customer 175 finishes shopping
+12 or fewer, chose express lane 2
+51.86: Customer 419 finishes shopping
+12 or fewer, chose express lane 1
+52.06: Customer 159 arrives
+52.230000000000004: Customer 228 finishes shopping
+12 or fewer, chose express lane 2
+52.269999999999996: Customer 49 finishes shopping
+12 or fewer, chose regular lane 4
+52.38: Customer 12 arrives
+52.46: Customer 64 arrives
+52.769999999999996: Customer 428 finishes shopping
+More than 12, chose regular lane 3
+53.23: Customer 245 arrives
+53.41: Customer 127 finishes shopping
+12 or fewer, chose express lane 1
+53.650000000000006: Customer 132 finishes shopping
+More than 12, chose regular lane 4
+53.76: Customer 489 arrives
+53.940000000000005: Customer 384 finishes shopping
+More than 12, chose regular lane 3
+54.1: Customer 159 finishes shopping
+12 or fewer, chose express lane 2
+54.14999999999999: Customer 14 finishes shopping
+12 or fewer, chose regular lane 6
+54.18: Customer 327 arrives
+54.38: Customer 81 arrives
+54.59: Customer 300 arrives
+55.11: Customer 334 finishes shopping
+More than 12, chose regular lane 5
+55.61: Customer 10 arrives
+55.86: Customer 64 finishes shopping
+12 or fewer, chose express lane 1
+55.98: Customer 362 arrives
+56.27: Customer 314 arrives
+56.32: Customer 377 arrives
+56.379999999999995: Customer 245 finishes shopping
+12 or fewer, chose express lane 2
+56.629999999999995: Customer 27 finishes shopping
+More than 12, chose regular lane 6
+56.63: Customer 406 arrives
+56.8: Customer 239 finishes shopping
+More than 12, chose regular lane 5
+56.88: Customer 72 arrives
+57.11: Customer 377 finishes shopping
+12 or fewer, chose regular lane 4
+57.540000000000006: Customer 392 finishes shopping
+12 or fewer, chose regular lane 3
+57.57: Customer 236 arrives
+57.77: Customer 92 finishes shopping
+More than 12, chose regular lane 4
+57.86: Customer 53 finishes shopping
+More than 12, chose regular lane 3
+57.95: Customer 291 finishes shopping
+More than 12, chose regular lane 6
+57.96: Customer 221 arrives
+58.260000000000005: Customer 347 finishes shopping
+More than 12, chose regular lane 5
+58.550000000000004: Customer 406 finishes shopping
+12 or fewer, chose express lane 1
+58.57: Customer 10 finishes shopping
+12 or fewer, chose express lane 2
+58.92: Customer 241 arrives
+59.04: Customer 216 arrives
+59.16: Customer 357 arrives
+59.84: Customer 248 arrives
+60.84: Customer 359 finishes shopping
+More than 12, chose regular lane 6
+60.89: Customer 442 finishes shopping
+More than 12, chose regular lane 5
+61.15: Customer 143 arrives
+61.4: Customer 39 arrives
+61.43: Customer 191 arrives
+61.53: Customer 215 arrives
+61.53: Customer 105 arrives
+61.55: Customer 268 arrives
+61.62: Customer 327 finishes shopping
+12 or fewer, chose express lane 1
+62.47: Customer 297 finishes shopping
+More than 12, chose regular lane 4
+62.6: Customer 66 arrives
+62.629999999999995: Customer 362 finishes shopping
+12 or fewer, chose express lane 2
+63.07: Customer 147 arrives
+63.190000000000005: Customer 114 finishes shopping
+More than 12, chose regular lane 3
+63.42: Customer 323 arrives
+63.63: Customer 278 arrives
+63.64: Customer 305 finishes shopping
+More than 12, chose regular lane 4
+63.72: Customer 357 finishes shopping
+12 or fewer, chose express lane 1
+63.76: Customer 489 finishes shopping
+12 or fewer, chose express lane 2
+63.81999999999999: Customer 368 finishes shopping
+More than 12, chose regular lane 3
+63.84: Customer 271 arrives
+64.08: Customer 224 arrives
+64.11: Customer 284 arrives
+64.16: Customer 216 finishes shopping
+12 or fewer, chose regular lane 6
+64.28999999999999: Customer 311 finishes shopping
+More than 12, chose regular lane 5
+64.49: Customer 147 finishes shopping
+12 or fewer, chose express lane 1
+64.66: Customer 379 arrives
+64.8: Customer 128 arrives
+65.09: Customer 213 finishes shopping
+More than 12, chose regular lane 6
+65.49000000000001: Customer 453 finishes shopping
+More than 12, chose regular lane 5
+65.64: Customer 6 arrives
+66.35: Customer 315 arrives
+66.44: Customer 288 finishes shopping
+More than 12, chose regular lane 4
+66.51: Customer 168 arrives
+66.9: Customer 46 arrives
+66.98: Customer 81 finishes shopping
+12 or fewer, chose express lane 2
+67.08: Customer 56 arrives
+67.2: Customer 473 arrives
+67.53: Customer 174 finishes shopping
+More than 12, chose regular lane 3
+67.53: Customer 215 finishes shopping
+12 or fewer, chose express lane 1
+67.68: Customer 90 arrives
+67.69: Customer 354 finishes shopping
+More than 12, chose regular lane 4
+67.71: Customer 426 finishes shopping
+More than 12, chose regular lane 3
+67.91: Customer 300 finishes shopping
+12 or fewer, chose express lane 2
+68.00999999999999: Customer 269 finishes shopping
+More than 12, chose regular lane 6
+68.07: Customer 182 arrives
+68.22: Customer 221 finishes shopping
+12 or fewer, chose regular lane 5
+68.57: Customer 219 arrives
+68.79: Customer 185 finishes shopping
+More than 12, chose regular lane 6
+68.91: Customer 367 arrives
+68.93: Customer 113 arrives
+69.13: Customer 9 finishes shopping
+More than 12, chose regular lane 5
+69.74000000000001: Customer 74 finishes shopping
+More than 12, chose regular lane 4
+70.0: Customer 113 finishes shopping
+12 or fewer, chose express lane 1
+70.07: Customer 375 arrives
+70.18: Customer 15 finishes shopping
+More than 12, chose regular lane 3
+70.4: Customer 344 arrives
+70.83000000000001: Customer 183 finishes shopping
+More than 12, chose regular lane 4
+70.94999999999999: Customer 315 finishes shopping
+12 or fewer, chose express lane 2
+71.47999999999999: Customer 450 finishes shopping
+More than 12, chose regular lane 3
+71.81: Customer 379 finishes shopping
+12 or fewer, chose express lane 1
+71.98: Customer 330 finishes shopping
+More than 12, chose regular lane 6
+72.0: Customer 128 finishes shopping
+12 or fewer, chose express lane 2
+72.32: Customer 281 arrives
+72.4: Customer 252 finishes shopping
+More than 12, chose regular lane 5
+72.91: Customer 325 arrives
+72.93: Customer 26 arrives
+73.02: Customer 241 finishes shopping
+12 or fewer, chose express lane 1
+73.23: Customer 20 finishes shopping
+More than 12, chose regular lane 6
+73.27: Customer 275 arrives
+73.41000000000001: Customer 168 finishes shopping
+12 or fewer, chose express lane 2
+73.47: Customer 250 arrives
+74.24000000000001: Customer 90 finishes shopping
+12 or fewer, chose regular lane 5
+74.53: Customer 194 finishes shopping
+More than 12, chose regular lane 4
+74.55: Customer 397 finishes shopping
+More than 12, chose regular lane 3
+74.55: Customer 312 arrives
+74.58: Customer 167 arrives
+74.64: Customer 196 arrives
+74.84: Customer 105 finishes shopping
+12 or fewer, chose express lane 1
+75.00999999999999: Customer 367 finishes shopping
+12 or fewer, chose express lane 2
+75.05: Customer 206 arrives
+75.4: Customer 499 finishes shopping
+More than 12, chose regular lane 4
+75.64: Customer 276 finishes shopping
+More than 12, chose regular lane 3
+75.69: Customer 196 finishes shopping
+12 or fewer, chose regular lane 6
+75.68: Customer 191 finishes shopping
+More than 12, chose regular lane 5
+75.87: Customer 163 arrives
+76.1: Customer 137 finishes shopping
+More than 12, chose regular lane 6
+76.22: Customer 281 finishes shopping
+12 or fewer, chose express lane 1
+76.46000000000001: Customer 363 finishes shopping
+More than 12, chose regular lane 5
+76.88: Customer 485 finishes shopping
+More than 12, chose regular lane 4
+76.98: Customer 173 arrives
+77.14: Customer 106 finishes shopping
+More than 12, chose regular lane 3
+77.55: Customer 487 finishes shopping
+More than 12, chose regular lane 4
+78.05: Customer 361 finishes shopping
+More than 12, chose regular lane 3
+78.09: Customer 203 arrives
+78.2: Customer 195 finishes shopping
+More than 12, chose regular lane 6
+78.87: Customer 458 arrives
+78.99: Customer 130 finishes shopping
+More than 12, chose regular lane 5
+79.05: Customer 296 arrives
+79.1: Customer 169 arrives
+79.2: Customer 460 finishes shopping
+More than 12, chose regular lane 6
+79.47: Customer 320 finishes shopping
+More than 12, chose regular lane 5
+79.49: Customer 219 finishes shopping
+12 or fewer, chose express lane 2
+79.61: Customer 273 arrives
+79.92: Customer 271 finishes shopping
+More than 12, chose regular lane 4
+80.09: Customer 161 arrives
+80.66: Customer 324 arrives
+81.29: Customer 335 arrives
+81.91: Customer 388 arrives
+82.46000000000001: Customer 323 finishes shopping
+More than 12, chose regular lane 3
+82.46: Customer 249 arrives
+82.52: Customer 164 finishes shopping
+More than 12, chose regular lane 4
+82.52: Customer 376 arrives
+82.85: Customer 258 arrives
+83.28999999999999: Customer 394 finishes shopping
+More than 12, chose regular lane 3
+83.32: Customer 129 arrives
+83.36: Customer 263 arrives
+83.41: Customer 286 arrives
+83.48: Customer 202 arrives
+83.72: Customer 431 arrives
+84.02: Customer 369 arrives
+84.03: Customer 163 finishes shopping
+12 or fewer, chose express lane 1
+84.05: Customer 395 arrives
+84.39: Customer 39 finishes shopping
+More than 12, chose regular lane 6
+84.42: Customer 88 finishes shopping
+More than 12, chose regular lane 5
+84.50999999999999: Customer 286 finishes shopping
+12 or fewer, chose express lane 2
+84.69: Customer 318 arrives
+85.13: Customer 83 arrives
+85.16: Customer 304 arrives
+85.27: Customer 284 finishes shopping
+More than 12, chose regular lane 6
+85.33: Customer 395 finishes shopping
+12 or fewer, chose express lane 1
+85.97: Customer 416 finishes shopping
+More than 12, chose regular lane 5
+85.99000000000001: Customer 280 finishes shopping
+More than 12, chose regular lane 4
+86.14999999999999: Customer 369 finishes shopping
+12 or fewer, chose express lane 2
+86.27: Customer 496 arrives
+86.28: Customer 283 arrives
+86.43: Customer 41 arrives
+86.67: Customer 236 finishes shopping
+More than 12, chose regular lane 3
+87.15: Customer 12 finishes shopping
+More than 12, chose regular lane 4
+87.17: Customer 123 finishes shopping
+More than 12, chose regular lane 3
+87.42: Customer 150 arrives
+87.44: Customer 129 finishes shopping
+12 or fewer, chose express lane 1
+87.47: Customer 134 arrives
+88.02: Customer 318 finishes shopping
+12 or fewer, chose express lane 2
+88.05: Customer 206 finishes shopping
+More than 12, chose regular lane 6
+88.48: Customer 155 arrives
+88.98: Customer 173 finishes shopping
+12 or fewer, chose express lane 1
+88.98: Customer 45 arrives
+89.0: Customer 493 arrives
+89.53: Customer 41 finishes shopping
+12 or fewer, chose express lane 2
+89.67999999999999: Customer 83 finishes shopping
+12 or fewer, chose express lane 1
+89.67: Customer 70 finishes shopping
+More than 12, chose regular lane 5
+89.72999999999999: Customer 182 finishes shopping
+More than 12, chose regular lane 6
+89.82: Customer 360 arrives
+89.97: Customer 40 arrives
+90.29: Customer 55 arrives
+90.64: Customer 224 finishes shopping
+More than 12, chose regular lane 5
+90.75: Customer 97 arrives
+91.27: Customer 462 arrives
+91.41: Customer 150 finishes shopping
+12 or fewer, chose express lane 2
+91.57: Customer 432 finishes shopping
+More than 12, chose regular lane 4
+91.86: Customer 324 finishes shopping
+12 or fewer, chose express lane 1
+91.88: Customer 258 finishes shopping
+12 or fewer, chose express lane 2
+92.22: Customer 172 arrives
+92.33: Customer 134 finishes shopping
+12 or fewer, chose regular lane 3
+92.5: Customer 135 finishes shopping
+More than 12, chose regular lane 4
+92.49000000000001: Customer 299 finishes shopping
+More than 12, chose regular lane 3
+93.09: Customer 274 arrives
+93.12: Customer 111 arrives
+93.27: Customer 456 arrives
+93.30999999999999: Customer 375 finishes shopping
+More than 12, chose regular lane 6
+93.35: Customer 229 arrives
+93.34: Customer 198 finishes shopping
+More than 12, chose regular lane 5
+93.41: Customer 414 arrives
+94.0: Customer 248 finishes shopping
+More than 12, chose regular lane 6
+94.83: Customer 283 finishes shopping
+12 or fewer, chose express lane 1
+95.01: Customer 35 arrives
+95.06: Customer 177 arrives
+95.14999999999999: Customer 249 finishes shopping
+12 or fewer, chose express lane 2
+95.18: Customer 381 arrives
+95.58: Customer 469 arrives
+95.85: Customer 436 arrives
+96.09: Customer 261 arrives
+96.2: Customer 176 arrives
+96.47999999999999: Customer 66 finishes shopping
+More than 12, chose regular lane 5
+96.79: Customer 86 finishes shopping
+More than 12, chose regular lane 4
+96.81: Customer 358 arrives
+96.82: Customer 438 arrives
+96.84: Customer 238 arrives
+96.88: Customer 177 finishes shopping
+12 or fewer, chose express lane 1
+96.89: Customer 365 arrives
+96.91: Customer 121 arrives
+96.97: Customer 456 finishes shopping
+12 or fewer, chose express lane 2
+97.0: Customer 46 finishes shopping
+More than 12, chose regular lane 3
+97.08: Customer 472 arrives
+97.2: Customer 254 arrives
+97.23: Customer 176 finishes shopping
+12 or fewer, chose express lane 1
+97.22999999999999: Customer 250 finishes shopping
+More than 12, chose regular lane 4
+97.28999999999999: Customer 360 finishes shopping
+12 or fewer, chose express lane 2
+97.37: Customer 59 arrives
+97.53: Customer 8 arrives
+97.62: Customer 469 finishes shopping
+12 or fewer, chose regular lane 3
+97.79: Customer 420 arrives
+97.89999999999999: Customer 304 finishes shopping
+More than 12, chose regular lane 6
+97.97999999999999: Customer 121 finishes shopping
+12 or fewer, chose regular lane 5
+98.01: Customer 171 arrives
+98.66: Customer 7 arrives
+98.93: Customer 293 arrives
+98.99: Customer 365 finishes shopping
+12 or fewer, chose express lane 1
+99.18: Customer 184 arrives
+99.24: Customer 7 finishes shopping
+12 or fewer, chose express lane 2
+99.52: Customer 431 finishes shopping
+More than 12, chose regular lane 6
+99.53: Customer 420 finishes shopping
+12 or fewer, chose regular lane 5
+100.08: Customer 247 arrives
+100.32: Customer 439 arrives
+100.85: Customer 165 arrives
+100.87: Customer 40 finishes shopping
+12 or fewer, chose regular lane 4
+100.91: Customer 458 finishes shopping
+More than 12, chose regular lane 3
+100.93: Customer 143 finishes shopping
+More than 12, chose regular lane 4
+101.04: Customer 166 arrives
+101.55000000000001: Customer 26 finishes shopping
+More than 12, chose regular lane 3
+101.84: Customer 472 finishes shopping
+12 or fewer, chose express lane 1
+101.97: Customer 413 arrives
+102.03: Customer 211 finishes shopping
+More than 12, chose regular lane 6
+102.03: Customer 314 finishes shopping
+More than 12, chose regular lane 5
+102.25: Customer 358 finishes shopping
+12 or fewer, chose express lane 2
+102.75999999999999: Customer 169 finishes shopping
+More than 12, chose regular lane 6
+102.96: Customer 443 arrives
+103.16: Customer 364 arrives
+103.22: Customer 386 arrives
+103.23: Customer 222 arrives
+103.35: Customer 262 arrives
+103.47: Customer 268 finishes shopping
+More than 12, chose regular lane 5
+103.48: Customer 199 arrives
+103.73: Customer 333 arrives
+103.97: Customer 78 finishes shopping
+More than 12, chose regular lane 4
+103.99: Customer 275 finishes shopping
+More than 12, chose regular lane 3
+104.11: Customer 35 finishes shopping
+More than 12, chose regular lane 4
+104.15: Customer 19 arrives
+104.3: Customer 414 finishes shopping
+12 or fewer, chose express lane 1
+105.35: Customer 32 arrives
+105.48: Customer 171 finishes shopping
+12 or fewer, chose express lane 2
+105.52: Customer 270 arrives
+105.87: Customer 497 arrives
+105.89: Customer 23 arrives
+105.98: Customer 409 arrives
+106.05: Customer 346 arrives
+106.08999999999999: Customer 229 finishes shopping
+More than 12, chose regular lane 3
+106.41: Customer 349 arrives
+106.66: Customer 438 finishes shopping
+12 or fewer, chose express lane 1
+106.69: Customer 493 finishes shopping
+More than 12, chose regular lane 6
+106.99: Customer 388 finishes shopping
+More than 12, chose regular lane 5
+107.01: Customer 466 arrives
+107.34: Customer 261 finishes shopping
+More than 12, chose regular lane 6
+107.37: Customer 287 arrives
+107.55: Customer 57 arrives
+107.79: Customer 188 arrives
+107.79: Customer 393 arrives
+108.31: Customer 287 finishes shopping
+12 or fewer, chose express lane 2
+108.41: Customer 69 finishes shopping
+More than 12, chose regular lane 5
+108.73: Customer 273 finishes shopping
+More than 12, chose regular lane 4
+108.75: Customer 85 arrives
+108.87: Customer 466 finishes shopping
+12 or fewer, chose express lane 1
+109.25: Customer 37 arrives
+109.27: Customer 58 arrives
+109.33: Customer 312 finishes shopping
+More than 12, chose regular lane 3
+109.41: Customer 479 arrives
+109.65: Customer 465 arrives
+109.82: Customer 345 finishes shopping
+More than 12, chose regular lane 4
+109.85999999999999: Customer 56 finishes shopping
+More than 12, chose regular lane 3
+109.89999999999999: Customer 346 finishes shopping
+12 or fewer, chose express lane 2
+110.11: Customer 325 finishes shopping
+More than 12, chose regular lane 6
+110.22000000000001: Customer 184 finishes shopping
+12 or fewer, chose express lane 1
+110.25: Customer 141 finishes shopping
+More than 12, chose regular lane 5
+110.36: Customer 333 finishes shopping
+More than 12, chose regular lane 6
+110.51: Customer 23 finishes shopping
+12 or fewer, chose express lane 2
+110.79: Customer 339 arrives
+110.84: Customer 238 finishes shopping
+12 or fewer, chose express lane 1
+111.07: Customer 115 arrives
+111.09: Customer 82 arrives
+111.17999999999999: Customer 349 finishes shopping
+12 or fewer, chose express lane 2
+111.5: Customer 321 arrives
+111.69: Customer 352 arrives
+112.08000000000001: Customer 188 finishes shopping
+12 or fewer, chose regular lane 5
+112.23: Customer 274 finishes shopping
+More than 12, chose regular lane 4
+112.52: Customer 371 arrives
+112.52000000000001: Customer 82 finishes shopping
+12 or fewer, chose regular lane 3
+112.56: Customer 470 arrives
+112.74: Customer 1 arrives
+112.74: Customer 16 arrives
+112.83: Customer 57 finishes shopping
+12 or fewer, chose express lane 1
+112.86: Customer 62 arrives
+112.89: Customer 124 arrives
+112.94: Customer 385 arrives
+113.28999999999999: Customer 242 finishes shopping
+More than 12, chose regular lane 4
+113.28: Customer 1 finishes shopping
+12 or fewer, chose express lane 2
+113.31: Customer 393 finishes shopping
+12 or fewer, chose regular lane 3
+113.38: Customer 329 arrives
+113.58: Customer 449 arrives
+113.71000000000001: Customer 59 finishes shopping
+More than 12, chose regular lane 6
+113.94: Customer 308 arrives
+113.96: Customer 329 finishes shopping
+12 or fewer, chose regular lane 5
+114.02: Customer 298 arrives
+114.3: Customer 17 arrives
+114.33: Customer 124 finishes shopping
+12 or fewer, chose express lane 1
+114.35: Customer 290 arrives
+114.36: Customer 441 arrives
+114.6: Customer 6 finishes shopping
+More than 12, chose regular lane 6
+114.63999999999999: Customer 443 finishes shopping
+More than 12, chose regular lane 5
+114.63: Customer 109 arrives
+114.87: Customer 409 finishes shopping
+12 or fewer, chose express lane 2
+114.93: Customer 100 arrives
+114.93: Customer 256 arrives
+115.02: Customer 352 finishes shopping
+12 or fewer, chose regular lane 4
+115.57: Customer 234 arrives
+115.57: Customer 227 arrives
+115.82: Customer 386 finishes shopping
+More than 12, chose regular lane 3
+115.88: Customer 278 finishes shopping
+More than 12, chose regular lane 4
+116.27: Customer 108 arrives
+116.4: Customer 481 arrives
+116.49: Customer 51 arrives
+116.57: Customer 50 arrives
+116.67: Customer 473 finishes shopping
+More than 12, chose regular lane 3
+116.72: Customer 385 finishes shopping
+12 or fewer, chose express lane 1
+116.75: Customer 111 finishes shopping
+More than 12, chose regular lane 6
+116.75: Customer 158 arrives
+116.78: Customer 116 arrives
+116.89: Customer 430 arrives
+117.02: Customer 448 arrives
+117.15: Customer 465 finishes shopping
+12 or fewer, chose express lane 2
+117.2: Customer 382 arrives
+118.26: Customer 4 arrives
+118.53: Customer 461 arrives
+118.58: Customer 298 finishes shopping
+12 or fewer, chose regular lane 5
+118.63: Customer 99 arrives
+118.81: Customer 97 finishes shopping
+More than 12, chose regular lane 6
+119.14: Customer 430 finishes shopping
+12 or fewer, chose express lane 1
+119.88: Customer 254 finishes shopping
+More than 12, chose regular lane 5
+119.94: Customer 172 finishes shopping
+More than 12, chose regular lane 4
+119.97: Customer 301 arrives
+119.98: Customer 476 arrives
+120.0: Customer 344 finishes shopping
+More than 12, chose regular lane 3
+120.05: Customer 37 finishes shopping
+12 or fewer, chose express lane 2
+120.2: Customer 47 arrives
+120.33: Customer 308 finishes shopping
+12 or fewer, chose express lane 1
+120.44: Customer 77 arrives
+120.58: Customer 167 finishes shopping
+More than 12, chose regular lane 4
+120.71000000000001: Customer 85 finishes shopping
+More than 12, chose regular lane 3
+120.75: Customer 290 finishes shopping
+12 or fewer, chose express lane 2
+120.77: Customer 496 finishes shopping
+More than 12, chose regular lane 6
+120.82: Customer 336 arrives
+120.88: Customer 72 finishes shopping
+More than 12, chose regular lane 5
+121.02: Customer 80 arrives
+121.13: Customer 99 finishes shopping
+12 or fewer, chose express lane 1
+121.63: Customer 126 arrives
+122.47: Customer 339 finishes shopping
+12 or fewer, chose express lane 2
+123.29: Customer 382 finishes shopping
+12 or fewer, chose regular lane 6
+123.66: Customer 73 arrives
+123.68: Customer 381 finishes shopping
+More than 12, chose regular lane 5
+123.84: Customer 479 finishes shopping
+More than 12, chose regular lane 4
+123.85000000000001: Customer 481 finishes shopping
+12 or fewer, chose regular lane 3
+123.86: Customer 212 arrives
+124.14: Customer 240 arrives
+124.25: Customer 408 arrives
+124.37: Customer 418 arrives
+124.62: Customer 17 finishes shopping
+12 or fewer, chose express lane 1
+124.73: Customer 351 arrives
+124.82: Customer 232 arrives
+124.88: Customer 131 arrives
+125.61: Customer 401 arrives
+125.63: Customer 13 arrives
+125.78: Customer 202 finishes shopping
+More than 12, chose regular lane 4
+126.07: Customer 107 arrives
+126.16: Customer 476 finishes shopping
+12 or fewer, chose express lane 2
+126.17: Customer 161 finishes shopping
+More than 12, chose regular lane 3
+126.2: Customer 263 finishes shopping
+More than 12, chose regular lane 6
+126.43: Customer 335 finishes shopping
+More than 12, chose regular lane 5
+126.72: Customer 180 arrives
+127.25999999999999: Customer 107 finishes shopping
+12 or fewer, chose express lane 1
+127.29: Customer 214 arrives
+127.35000000000001: Customer 256 finishes shopping
+12 or fewer, chose express lane 2
+127.5: Customer 448 finishes shopping
+12 or fewer, chose regular lane 6
+127.76: Customer 251 arrives
+127.77: Customer 22 arrives
+128.01: Customer 301 finishes shopping
+12 or fewer, chose regular lane 5
+128.22: Customer 48 arrives
+128.33: Customer 470 finishes shopping
+More than 12, chose regular lane 4
+128.43: Customer 126 finishes shopping
+12 or fewer, chose regular lane 3
+128.58: Customer 98 arrives
+128.78: Customer 203 finishes shopping
+More than 12, chose regular lane 4
+128.78: Customer 247 finishes shopping
+More than 12, chose regular lane 3
+128.8: Customer 398 arrives
+128.82: Customer 212 finishes shopping
+12 or fewer, chose express lane 1
+129.08: Customer 390 arrives
+129.26: Customer 109 finishes shopping
+More than 12, chose regular lane 6
+129.27: Customer 294 arrives
+129.57: Customer 151 arrives
+129.86: Customer 8 finishes shopping
+More than 12, chose regular lane 5
+129.96: Customer 434 arrives
+130.39: Customer 340 arrives
+130.48: Customer 370 arrives
+130.48: Customer 102 arrives
+130.49: Customer 376 finishes shopping
+More than 12, chose regular lane 6
+130.74: Customer 51 finishes shopping
+More than 12, chose regular lane 5
+131.05: Customer 296 finishes shopping
+More than 12, chose regular lane 4
+131.22: Customer 389 arrives
+131.31: Customer 22 finishes shopping
+12 or fewer, chose express lane 2
+131.61: Customer 214 finishes shopping
+12 or fewer, chose express lane 1
+131.71: Customer 398 finishes shopping
+12 or fewer, chose express lane 2
+132.5: Customer 462 finishes shopping
+More than 12, chose regular lane 3
+132.84: Customer 282 arrives
+133.17: Customer 262 finishes shopping
+More than 12, chose regular lane 4
+133.21: Customer 235 arrives
+133.54999999999998: Customer 232 finishes shopping
+12 or fewer, chose express lane 1
+134.1: Customer 47 finishes shopping
+12 or fewer, chose express lane 2
+134.52: Customer 307 arrives
+134.54: Customer 477 arrives
+134.63: Customer 156 arrives
+134.73: Customer 404 arrives
+134.77: Customer 235 finishes shopping
+12 or fewer, chose regular lane 3
+135.24: Customer 32 finishes shopping
+More than 12, chose regular lane 6
+135.28: Customer 199 finishes shopping
+More than 12, chose regular lane 5
+135.46: Customer 373 arrives
+135.9: Customer 270 finishes shopping
+More than 12, chose regular lane 6
+136.04: Customer 91 arrives
+136.79: Customer 186 arrives
+137.05: Customer 112 arrives
+137.37: Customer 156 finishes shopping
+12 or fewer, chose express lane 1
+137.66: Customer 190 arrives
+137.73: Customer 400 arrives
+138.05: Customer 63 arrives
+138.13000000000002: Customer 112 finishes shopping
+12 or fewer, chose express lane 2
+138.25: Customer 151 finishes shopping
+12 or fewer, chose regular lane 5
+138.38: Customer 259 arrives
+138.45: Customer 423 arrives
+138.63: Customer 28 arrives
+138.76000000000002: Customer 294 finishes shopping
+More than 12, chose regular lane 4
+139.06: Customer 423 finishes shopping
+12 or fewer, chose regular lane 3
+139.05: Customer 52 arrives
+139.23: Customer 260 arrives
+139.88: Customer 223 arrives
+139.97000000000003: Customer 293 finishes shopping
+More than 12, chose regular lane 4
+140.04: Customer 148 arrives
+140.16: Customer 355 arrives
+140.55: Customer 279 arrives
+140.66: Customer 444 arrives
+140.96: Customer 152 arrives
+141.06: Customer 100 finishes shopping
+More than 12, chose regular lane 3
+141.38: Customer 364 finishes shopping
+More than 12, chose regular lane 6
+141.68: Customer 149 arrives
+141.72: Customer 116 finishes shopping
+More than 12, chose regular lane 5
+141.8: Customer 55 finishes shopping
+More than 12, chose regular lane 6
+142.04: Customer 68 arrives
+142.08: Customer 166 finishes shopping
+More than 12, chose regular lane 5
+142.3: Customer 60 arrives
+142.55: Customer 158 finishes shopping
+More than 12, chose regular lane 4
+143.14: Customer 93 arrives
+143.2: Customer 439 finishes shopping
+More than 12, chose regular lane 3
+143.39: Customer 181 arrives
+143.46: Customer 422 arrives
+143.87: Customer 200 arrives
+144.66: Customer 452 arrives
+144.73: Customer 494 arrives
+145.05: Customer 461 finishes shopping
+More than 12, chose regular lane 4
+145.08999999999997: Customer 340 finishes shopping
+More than 12, chose regular lane 3
+145.46: Customer 488 arrives
+145.53: Customer 404 finishes shopping
+12 or fewer, chose express lane 1
+145.65: Customer 413 finishes shopping
+More than 12, chose regular lane 6
+146.28: Customer 197 arrives
+146.39: Customer 103 arrives
+146.47: Customer 28 finishes shopping
+12 or fewer, chose express lane 2
+146.55: Customer 67 arrives
+146.59: Customer 373 finishes shopping
+More than 12, chose regular lane 5
+146.66: Customer 65 arrives
+147.03: Customer 279 finishes shopping
+12 or fewer, chose express lane 1
+147.04: Customer 370 finishes shopping
+12 or fewer, chose express lane 2
+147.06: Customer 45 finishes shopping
+More than 12, chose regular lane 6
+147.2: Customer 68 finishes shopping
+12 or fewer, chose express lane 1
+147.66: Customer 257 arrives
+148.05: Customer 210 arrives
+148.25: Customer 201 arrives
+148.47: Customer 328 arrives
+148.61: Customer 153 arrives
+148.7: Customer 468 arrives
+149.69: Customer 144 arrives
+149.73: Customer 192 arrives
+149.87: Customer 402 arrives
+150.05: Customer 338 arrives
+150.3: Customer 62 finishes shopping
+More than 12, chose regular lane 5
+150.31: Customer 401 finishes shopping
+More than 12, chose regular lane 4
+150.38: Customer 162 arrives
+150.46: Customer 492 arrives
+150.48: Customer 319 arrives
+150.51: Customer 115 finishes shopping
+More than 12, chose regular lane 3
+150.8: Customer 190 finishes shopping
+12 or fewer, chose express lane 2
+150.98: Customer 110 arrives
+151.06: Customer 336 finishes shopping
+More than 12, chose regular lane 4
+151.14: Customer 316 arrives
+151.29: Customer 415 arrives
+151.34: Customer 42 arrives
+151.38: Customer 478 arrives
+151.53: Customer 495 arrives
+151.79: Customer 24 arrives
+151.97: Customer 63 finishes shopping
+More than 12, chose regular lane 3
+152.0: Customer 265 arrives
+152.13: Customer 454 arrives
+152.19: Customer 142 arrives
+152.32: Customer 152 finishes shopping
+12 or fewer, chose express lane 1
+152.48999999999998: Customer 415 finishes shopping
+12 or fewer, chose express lane 2
+152.51: Customer 165 finishes shopping
+More than 12, chose regular lane 6
+152.54: Customer 48 finishes shopping
+More than 12, chose regular lane 5
+152.57: Customer 378 arrives
+152.61: Customer 108 finishes shopping
+More than 12, chose regular lane 6
+152.71: Customer 33 arrives
+153.05: Customer 30 arrives
+153.16: Customer 488 finishes shopping
+12 or fewer, chose express lane 1
+153.24: Customer 180 finishes shopping
+More than 12, chose regular lane 5
+153.87: Customer 302 arrives
+153.93: Customer 353 arrives
+154.14: Customer 316 finishes shopping
+12 or fewer, chose express lane 2
+154.15: Customer 19 finishes shopping
+More than 12, chose regular lane 4
+154.26: Customer 495 finishes shopping
+12 or fewer, chose express lane 1
+154.43: Customer 343 arrives
+154.82: Customer 110 finishes shopping
+12 or fewer, chose express lane 2
+154.96: Customer 350 arrives
+155.1: Customer 478 finishes shopping
+12 or fewer, chose regular lane 3
+155.39: Customer 332 arrives
+155.43: Customer 104 arrives
+155.65: Customer 67 finishes shopping
+12 or fewer, chose express lane 1
+155.71: Customer 144 finishes shopping
+12 or fewer, chose express lane 2
+155.78: Customer 101 arrives
+156.45: Customer 192 finishes shopping
+12 or fewer, chose regular lane 4
+157.09: Customer 321 finishes shopping
+More than 12, chose regular lane 3
+157.79: Customer 497 finishes shopping
+More than 12, chose regular lane 6
+157.85: Customer 265 finishes shopping
+12 or fewer, chose regular lane 5
+157.86: Customer 383 arrives
+157.94: Customer 237 arrives
+158.51: Customer 402 finishes shopping
+12 or fewer, chose express lane 1
+158.67: Customer 24 finishes shopping
+12 or fewer, chose express lane 2
+159.05: Customer 408 finishes shopping
+More than 12, chose regular lane 6
+159.1: Customer 436 finishes shopping
+More than 12, chose regular lane 5
+159.11: Customer 464 arrives
+159.12: Customer 319 finishes shopping
+12 or fewer, chose regular lane 4
+159.29: Customer 131 finishes shopping
+More than 12, chose regular lane 3
+159.33: Customer 459 arrives
+159.55: Customer 73 finishes shopping
+More than 12, chose regular lane 4
+159.88: Customer 91 finishes shopping
+More than 12, chose regular lane 3
+160.13: Customer 4 finishes shopping
+More than 12, chose regular lane 6
+160.17: Customer 43 arrives
+160.22: Customer 449 finishes shopping
+More than 12, chose regular lane 5
+160.53: Customer 207 arrives
+160.54999999999998: Customer 378 finishes shopping
+12 or fewer, chose express lane 1
+160.67999999999998: Customer 260 finishes shopping
+More than 12, chose regular lane 6
+160.82: Customer 29 arrives
+161.09: Customer 136 arrives
+161.59: Customer 30 finishes shopping
+12 or fewer, chose express lane 2
+161.72: Customer 468 finishes shopping
+More than 12, chose regular lane 5
+162.01999999999998: Customer 65 finishes shopping
+12 or fewer, chose express lane 1
+162.08: Customer 94 arrives
+162.12: Customer 371 finishes shopping
+More than 12, chose regular lane 4
+162.15: Customer 405 arrives
+162.3: Customer 189 arrives
+162.38: Customer 31 arrives
+163.23: Customer 337 arrives
+163.34: Customer 230 arrives
+163.51000000000002: Customer 492 finishes shopping
+12 or fewer, chose express lane 2
+163.67: Customer 29 finishes shopping
+12 or fewer, chose regular lane 3
+163.7: Customer 425 arrives
+163.82: Customer 407 arrives
+164.26000000000002: Customer 383 finishes shopping
+12 or fewer, chose express lane 1
+164.4: Customer 403 arrives
+164.42: Customer 54 arrives
+165.02: Customer 133 arrives
+165.09: Customer 277 arrives
+165.18: Customer 490 arrives
+165.36: Customer 471 arrives
+165.42: Customer 25 arrives
+165.65: Customer 77 finishes shopping
+More than 12, chose regular lane 4
+165.71: Customer 464 finishes shopping
+12 or fewer, chose express lane 2
+165.73: Customer 179 arrives
+165.81: Customer 353 finishes shopping
+12 or fewer, chose regular lane 3
+165.83: Customer 75 arrives
+165.96: Customer 266 arrives
+165.97: Customer 136 finishes shopping
+12 or fewer, chose regular lane 6
+166.16: Customer 350 finishes shopping
+More than 12, chose regular lane 5
+166.16: Customer 139 arrives
+166.28: Customer 226 arrives
+166.41: Customer 178 arrives
+166.46: Customer 444 finishes shopping
+More than 12, chose regular lane 6
+167.01999999999998: Customer 227 finishes shopping
+More than 12, chose regular lane 5
+167.12: Customer 267 arrives
+167.14: Customer 282 finishes shopping
+More than 12, chose regular lane 4
+167.23: Customer 179 finishes shopping
+12 or fewer, chose express lane 1
+167.25: Customer 118 arrives
+167.49: Customer 142 finishes shopping
+More than 12, chose regular lane 3
+167.7: Customer 425 finishes shopping
+12 or fewer, chose express lane 2
+167.83: Customer 277 finishes shopping
+12 or fewer, chose express lane 1
+167.89999999999998: Customer 50 finishes shopping
+More than 12, chose regular lane 4
+167.93: Customer 480 arrives
+168.0: Customer 356 arrives
+168.04: Customer 186 finishes shopping
+More than 12, chose regular lane 3
+168.41: Customer 87 arrives
+168.42000000000002: Customer 240 finishes shopping
+More than 12, chose regular lane 6
+168.69: Customer 454 finishes shopping
+12 or fewer, chose express lane 2
+168.81: Customer 400 finishes shopping
+More than 12, chose regular lane 5
+168.96: Customer 410 arrives
+169.01999999999998: Customer 25 finishes shopping
+12 or fewer, chose express lane 1
+169.05: Customer 201 finishes shopping
+More than 12, chose regular lane 6
+169.2: Customer 122 arrives
+169.24: Customer 251 finishes shopping
+More than 12, chose regular lane 5
+169.32999999999998: Customer 155 finishes shopping
+More than 12, chose regular lane 4
+169.35999999999999: Customer 223 finishes shopping
+More than 12, chose regular lane 3
+169.44: Customer 387 arrives
+169.48: Customer 197 finishes shopping
+More than 12, chose regular lane 4
+169.49: Customer 237 finishes shopping
+12 or fewer, chose express lane 2
+169.62: Customer 217 arrives
+169.61: Customer 486 arrives
+169.69: Customer 234 finishes shopping
+More than 12, chose regular lane 3
+169.86: Customer 204 arrives
+170.04000000000002: Customer 189 finishes shopping
+12 or fewer, chose express lane 1
+170.22: Customer 441 finishes shopping
+More than 12, chose regular lane 6
+170.39000000000001: Customer 153 finishes shopping
+More than 12, chose regular lane 5
+170.84: Customer 79 arrives
+171.26: Customer 157 arrives
+171.33: Customer 313 arrives
+171.54999999999998: Customer 102 finishes shopping
+More than 12, chose regular lane 6
+171.98: Customer 38 arrives
+171.98999999999998: Customer 181 finishes shopping
+More than 12, chose regular lane 5
+172.11: Customer 244 arrives
+172.17000000000002: Customer 328 finishes shopping
+More than 12, chose regular lane 4
+172.25: Customer 366 arrives
+172.39: Customer 455 arrives
+172.71: Customer 452 finishes shopping
+More than 12, chose regular lane 3
+172.77: Customer 76 arrives
+172.91: Customer 34 arrives
+173.82: Customer 217 finishes shopping
+12 or fewer, chose express lane 2
+174.04: Customer 162 finishes shopping
+More than 12, chose regular lane 4
+174.12: Customer 389 finishes shopping
+More than 12, chose regular lane 3
+175.06: Customer 390 finishes shopping
+More than 12, chose regular lane 6
+175.06: Customer 60 finishes shopping
+More than 12, chose regular lane 5
+175.28: Customer 410 finishes shopping
+12 or fewer, chose express lane 1
+175.77: Customer 52 finishes shopping
+More than 12, chose regular lane 6
+175.89000000000001: Customer 459 finishes shopping
+12 or fewer, chose express lane 2
+176.03: Customer 34 finishes shopping
+12 or fewer, chose express lane 1
+176.86: Customer 133 finishes shopping
+12 or fewer, chose express lane 2
+177.32: Customer 207 finishes shopping
+More than 12, chose regular lane 5
+177.42000000000002: Customer 94 finishes shopping
+More than 12, chose regular lane 4
+177.55: Customer 210 finishes shopping
+More than 12, chose regular lane 3
+177.88: Customer 98 finishes shopping
+More than 12, chose regular lane 4
+178.13: Customer 103 finishes shopping
+More than 12, chose regular lane 3
+178.22: Customer 407 finishes shopping
+12 or fewer, chose express lane 1
+178.35: Customer 266 finishes shopping
+More than 12, chose regular lane 6
+178.43: Customer 75 finishes shopping
+12 or fewer, chose express lane 2
+178.74: Customer 257 finishes shopping
+More than 12, chose regular lane 5
+179.24: Customer 434 finishes shopping
+More than 12, chose regular lane 6
+179.45: Customer 58 finishes shopping
+More than 12, chose regular lane 5
+180.05: Customer 16 finishes shopping
+More than 12, chose regular lane 4
+180.63: Customer 405 finishes shopping
+More than 12, chose regular lane 3
+181.14: Customer 387 finishes shopping
+12 or fewer, chose express lane 1
+182.29999999999998: Customer 122 finishes shopping
+12 or fewer, chose express lane 2
+183.20000000000002: Customer 418 finishes shopping
+More than 12, chose regular lane 4
+183.23: Customer 332 finishes shopping
+More than 12, chose regular lane 3
+183.47000000000003: Customer 222 finishes shopping
+More than 12, chose regular lane 6
+183.52: Customer 104 finishes shopping
+More than 12, chose regular lane 5
+183.97: Customer 259 finishes shopping
+More than 12, chose regular lane 6
+185.37: Customer 366 finishes shopping
+More than 12, chose regular lane 5
+186.73000000000002: Customer 302 finishes shopping
+More than 12, chose regular lane 4
+187.07000000000002: Customer 76 finishes shopping
+More than 12, chose regular lane 3
+187.28: Customer 351 finishes shopping
+More than 12, chose regular lane 4
+188.23: Customer 494 finishes shopping
+More than 12, chose regular lane 3
+188.44: Customer 42 finishes shopping
+More than 12, chose regular lane 6
+188.82999999999998: Customer 455 finishes shopping
+12 or fewer, chose express lane 1
+189.63: Customer 403 finishes shopping
+More than 12, chose regular lane 5
+190.27: Customer 200 finishes shopping
+More than 12, chose regular lane 6
+190.76999999999998: Customer 43 finishes shopping
+More than 12, chose regular lane 5
+191.42: Customer 93 finishes shopping
+More than 12, chose regular lane 4
+192.20000000000002: Customer 230 finishes shopping
+More than 12, chose regular lane 3
+195.19: Customer 13 finishes shopping
+More than 12, chose regular lane 4
+195.28: Customer 139 finishes shopping
+More than 12, chose regular lane 3
+195.35000000000002: Customer 343 finishes shopping
+More than 12, chose regular lane 6
+195.81: Customer 313 finishes shopping
+More than 12, chose regular lane 5
+196.58: Customer 338 finishes shopping
+More than 12, chose regular lane 6
+198.9: Customer 80 finishes shopping
+More than 12, chose regular lane 5
+200.54: Customer 87 finishes shopping
+More than 12, chose regular lane 4
+202.26: Customer 101 finishes shopping
+More than 12, chose regular lane 3
+202.39999999999998: Customer 31 finishes shopping
+More than 12, chose regular lane 4
+203.17000000000002: Customer 33 finishes shopping
+More than 12, chose regular lane 3
+204.23: Customer 355 finishes shopping
+More than 12, chose regular lane 6
+205.14: Customer 157 finishes shopping
+More than 12, chose regular lane 5
+206.42: Customer 54 finishes shopping
+More than 12, chose regular lane 6
+206.64: Customer 149 finishes shopping
+More than 12, chose regular lane 5
+206.68: Customer 148 finishes shopping
+More than 12, chose regular lane 4
+207.11: Customer 178 finishes shopping
+More than 12, chose regular lane 3
+208.42000000000002: Customer 422 finishes shopping
+More than 12, chose regular lane 4
+209.45000000000002: Customer 307 finishes shopping
+More than 12, chose regular lane 3
+209.53: Customer 79 finishes shopping
+More than 12, chose regular lane 6
+211.14: Customer 118 finishes shopping
+More than 12, chose regular lane 5
+211.63: Customer 337 finishes shopping
+More than 12, chose regular lane 6
+212.29: Customer 356 finishes shopping
+More than 12, chose regular lane 5
+217.88: Customer 38 finishes shopping
+More than 12, chose regular lane 4
+218.32999999999998: Customer 477 finishes shopping
+More than 12, chose regular lane 3
+219.59: Customer 486 finishes shopping
+More than 12, chose regular lane 4
+219.78: Customer 490 finishes shopping
+More than 12, chose regular lane 3
+223.55: Customer 480 finishes shopping
+More than 12, chose regular lane 6
+223.86: Customer 204 finishes shopping
+More than 12, chose regular lane 5
+230.78: Customer 226 finishes shopping
+More than 12, chose regular lane 6
+238.72000000000003: Customer 471 finishes shopping
+More than 12, chose regular lane 5
+242.18: Customer 244 finishes shopping
+More than 12, chose regular lane 4
+245.51999999999998: Customer 267 finishes shopping
+More than 12, chose regular lane 3
+Average wait time: -109.92370000000005
